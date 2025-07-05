@@ -1,6 +1,3 @@
-
-
-````
 # 🌸 Iris Flower Classification using Logistic Regression
 
 A beginner-friendly machine learning project that classifies iris flowers into three species — **Setosa**, **Versicolor**, or **Virginica** — using **Logistic Regression**.
@@ -125,6 +122,5 @@ Project for learning and demonstration purposes.
 * [Scikit-learn Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 * [UCI ML Repository – Iris Data](https://archive.ics.uci.edu/ml/datasets/iris)
 
-```
 
 
